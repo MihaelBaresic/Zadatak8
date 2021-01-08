@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Miho\Desktop\repos\StrukturePodataka\Zad8\Source.c(101,30): warning C4047: 'function': 'positionS' differs in levels of indirection from 'positionS *'
+C:\Users\Miho\Desktop\repos\StrukturePodataka\Zad8\Source.c(101,25): warning C4024: 'find': different types for formal and actual parameter 2
+C:\Users\Miho\Desktop\repos\StrukturePodataka\Zad8\Source.c(148,11): warning C4098: 'insert': 'void' function returning a value
+C:\Users\Miho\Desktop\repos\StrukturePodataka\Zad8\Source.c(181,11): warning C4098: 'printDir': 'void' function returning a value
+  Zad8.vcxproj -> C:\Users\Miho\Desktop\repos\StrukturePodataka\Zad8\Debug\Zad8.exe
